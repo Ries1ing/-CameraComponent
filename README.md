@@ -1,3 +1,4 @@
 # My Degree - Full-Stack Data Science
 
-![datascience venn diagram](./images/data_scien
+![datascience venn diagram](./images/data_science_venn_diagram.png)
+
