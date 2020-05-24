@@ -2,4 +2,6 @@
 
 ![datascience venn diagram](./images/data_science_venn_diagram.png)
 
-## Introductio
+## Introduction
+
+  As a data scien
