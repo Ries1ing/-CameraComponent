@@ -4,4 +4,4 @@
 
 ## Introduction
 
-  As a data scientist with *"only"* a bachelor’s in 
+  As a data scientist with *"only"* a bachelor’s in Physics and
