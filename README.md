@@ -4,4 +4,4 @@
 
 ## Introduction
 
-  As a data scientist with *"only"* a bachelor’s in Physics and Mathematics, I have the feeling that I have reached the frontiers of m
+  As a data scientist with *"only"* a bachelor’s in Physics and Mathematics, I have the feeling that I have reached the frontiers of my current knowledge. To pr
