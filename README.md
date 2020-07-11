@@ -8,4 +8,4 @@
 
 This aims to address several areas, the first one being a foundational recap of the background theory of statistics/probably, machine learning and neural networks. Whilst I have had a moderate chunk of experience in these areas within my degree and job, there are holes and rusty parts of my knowledge. Before starting more advanced courses, I think would make sense to recap the theory that most of these courses build upon.
 
-The second centre of attention will focus much more on technical skills. It is fine having strong theory but implementing the theory is a whole other beast. I think that technical skill is an important area to master. Most of the time, this is what a business will care the most about. Whilst I believe my technical skill to be 
+The second centre of attention will focus much more on technical skills. It is fine having strong theory but implementing the theory is a whole other beast. I think that technical skill is an important area to master. Most of the time, this is what a business will care the most about. Whilst I believe my technical skill to be at a decent level, t
