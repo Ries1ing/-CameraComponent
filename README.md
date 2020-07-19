@@ -11,4 +11,5 @@ This aims to address several areas, the first one being a foundational recap of 
 The second centre of attention will focus much more on technical skills. It is fine having strong theory but implementing the theory is a whole other beast. I think that technical skill is an important area to master. Most of the time, this is what a business will care the most about. Whilst I believe my technical skill to be at a decent level, there are definite deficiencies in my level experience. To be clear, however, I am not a beginner in my abilities. The areas that will take the spotlight are:
 - General data engineering
 - MLOps
-- Ge
+- General cloud platform knowhow
+-
