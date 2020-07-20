@@ -12,4 +12,5 @@ The second centre of attention will focus much more on technical skills. It is f
 - General data engineering
 - MLOps
 - General cloud platform knowhow
--
+- Tensorflow/PyTorch
+- Sof
