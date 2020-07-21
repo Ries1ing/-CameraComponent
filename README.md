@@ -13,4 +13,6 @@ The second centre of attention will focus much more on technical skills. It is f
 - MLOps
 - General cloud platform knowhow
 - Tensorflow/PyTorch
-- Software engineering principl
+- Software engineering principles
+
+Software engineer
