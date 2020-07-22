@@ -15,4 +15,4 @@ The second centre of attention will focus much more on technical skills. It is f
 - Tensorflow/PyTorch
 - Software engineering principles
 
-Software engineer
+Software engineering principles m
