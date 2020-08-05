@@ -15,4 +15,4 @@ The second centre of attention will focus much more on technical skills. It is f
 - Tensorflow/PyTorch
 - Software engineering principles
 
-Software engineering principles may appear to be a strange addition to this list - (anecdotally) many data scientists do not focus on this area all too much. As I do not have a computer science background, when I compare my knowledge of coding principles to people that do, I often feel like my knowledge is lacklustre. As well as this, personally, I spend much of my ti
+Software engineering principles may appear to be a strange addition to this list - (anecdotally) many data scientists do not focus on this area all too much. As I do not have a computer science background, when I compare my knowledge of coding principles to people that do, I often feel like my knowledge is lacklustre. As well as this, personally, I spend much of my time coding. Therefore, I bel
