@@ -19,4 +19,6 @@ Software engineering principles may appear to be a strange addition to this list
 
 The third and final area pivots towards leadership and management skills. This is arguably not data science! This is an important area for me for two reasons. Firstly, I would eventually like to manage a team. Developing management skills now will aid this goal. As well as that, I strive to better people around me. Having leadership skills assists with this.
 
-## Course Str
+## Course Structure
+
+### Foundat
