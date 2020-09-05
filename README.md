@@ -21,4 +21,6 @@ The third and final area pivots towards leadership and management skills. This i
 
 ## Course Structure
 
-### Foundat
+### Foundational Recap
+
+### [CS2
