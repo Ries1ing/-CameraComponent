@@ -23,4 +23,4 @@ The third and final area pivots towards leadership and management skills. This i
 
 ### Foundational Recap
 
-### [CS2
+### [CS229: Machine Learning (Stanfor
