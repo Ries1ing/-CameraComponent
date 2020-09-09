@@ -23,4 +23,4 @@ The third and final area pivots towards leadership and management skills. This i
 
 ### Foundational Recap
 
-### [CS229: Machine Learning (Stanford)](https://cs229
+### [CS229: Machine Learning (Stanford)](https://cs229.stanford.edu/syllabus-su
