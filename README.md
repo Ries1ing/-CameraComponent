@@ -32,3 +32,4 @@ The third and final area pivots towards leadership and management skills. This i
 
 - [Decision Trees](https://www.youtube.com/watch?v=q90UDEgYqeI)
 - [Random Forests](https://www.youtube.com/playlist?list=PLblh5JKOoLUIE96dI3U7oxHaCAbZgfhHk)
+- [Gradient Boost](http
