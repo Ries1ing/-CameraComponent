@@ -35,4 +35,6 @@ The third and final area pivots towards leadership and management skills. This i
 - [Gradient Boost](https://www.youtube.com/playlist?list=PLblh5JKOoLUJjeXUvUE0maghNuY2_5fY6)
 - [XGBoost](https://www.youtube.com/watch?v=GrJP9FLV3FE)
 
-### [CS230: Deep Learning (Stanford)](https://cs230.stanford.e
+### [CS230: Deep Learning (Stanford)](https://cs230.stanford.edu/)
+
+> Deep Learning is 
