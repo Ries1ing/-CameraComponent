@@ -37,4 +37,4 @@ The third and final area pivots towards leadership and management skills. This i
 
 ### [CS230: Deep Learning (Stanford)](https://cs230.stanford.edu/)
 
-> Deep Learning is one of the most highly sought after skills in AI. In this course, you will learn the foundations
+> Deep Learning is one of the most highly sought after skills in AI. In this course, you will learn the foundations of Deep Learning, unders
