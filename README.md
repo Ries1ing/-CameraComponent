@@ -43,4 +43,4 @@ Important links:
 - [Hidden files that include exam papers](https://cs230.stanford.edu/files/)
 
 ### Deeper Studying
-*TODO
+*TODO: [here is a very good 
