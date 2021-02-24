@@ -42,4 +42,5 @@ The third and final area pivots towards leadership and management skills. This i
 Important links:
 - [Hidden files that include exam papers](https://cs230.stanford.edu/files/)
 
-### 
+### Deeper Studying
+*TODO
