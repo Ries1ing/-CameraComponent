@@ -43,4 +43,4 @@ Important links:
 - [Hidden files that include exam papers](https://cs230.stanford.edu/files/)
 
 ### Deeper Studying
-*TODO: [here is a very good thread of many advanced courses](https://www.reddit.com/r/MachineLearning/commen
+*TODO: [here is a very good thread of many advanced courses](https://www.reddit.com/r/MachineLearning/comments/fdw0ax/d_advanced_course
