@@ -45,4 +45,6 @@ Important links:
 ### Deeper Studying
 *TODO: [here is a very good thread of many advanced courses](https://www.reddit.com/r/MachineLearning/comments/fdw0ax/d_advanced_courses_update), I need to decide what to pick and choose from these, if needed.*
 
-### Tech
+### Techincal Skills
+
+This 
