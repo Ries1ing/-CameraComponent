@@ -47,4 +47,4 @@ Important links:
 
 ### Techincal Skills
 
-This section is under construction 
+This section is under construction and will need more thought. 
