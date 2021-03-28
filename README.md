@@ -48,4 +48,5 @@ Important links:
 ### Techincal Skills
 
 This section is under construction and will need more thought. Here are some broad things that will need to be researched:
-- D
+- Docker
+- Terraform (maybe
