@@ -49,4 +49,6 @@ Important links:
 
 This section is under construction and will need more thought. Here are some broad things that will need to be researched:
 - Docker
-- Terraform (maybe
+- Terraform (maybe?)
+- A course on MLOps
+- 
