@@ -52,4 +52,4 @@ This section is under construction and will need more thought. Here are some bro
 - Terraform (maybe?)
 - A course on MLOps
 - A course on Scala/Spark
-- An interme
+- An intermediate course on Tensorflo
