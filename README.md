@@ -51,4 +51,5 @@ This section is under construction and will need more thought. Here are some bro
 - Docker
 - Terraform (maybe?)
 - A course on MLOps
-- A course on Sca
+- A course on Scala/Spark
+- An interme
