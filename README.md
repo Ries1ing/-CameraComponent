@@ -53,4 +53,4 @@ This section is under construction and will need more thought. Here are some bro
 - A course on MLOps
 - A course on Scala/Spark
 - An intermediate course on Tensorflow/PyTorch
-- A course on the generals of Azur
+- A course on the generals of Azure -- possibly a project th
