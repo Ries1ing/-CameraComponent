@@ -53,4 +53,6 @@ This section is under construction and will need more thought. Here are some bro
 - A course on MLOps
 - A course on Scala/Spark
 - An intermediate course on Tensorflow/PyTorch
-- A course on the generals of Azure -- possibly a project that incorperates any models produced from the foundational recap and the course on Ten
+- A course on the generals of Azure -- possibly a project that incorperates any models produced from the foundational recap and the course on Tensorflow/PyTorch
+- Unit testing
+- R
