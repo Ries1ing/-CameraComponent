@@ -57,3 +57,4 @@ This section is under construction and will need more thought. Here are some bro
 - Unit testing
 - Reading the following books:
   - Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides
+  - Principles of Pac
