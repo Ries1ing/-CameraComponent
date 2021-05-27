@@ -60,4 +60,5 @@ This section is under construction and will need more thought. Here are some bro
   - Principles of Package Design: Creating Reusable Software Components by Matthias Noback
   - Clean Code: A Handbook of Agile Software Craftsmanship by Robert Martin
 - Watching the following (Python) videos:
-  - [Cohesion and coupling](https://youtu.be/
+  - [Cohesion and coupling](https://youtu.be/eiDyK_ofPPM)
+  - [De
