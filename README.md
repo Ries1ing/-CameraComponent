@@ -61,4 +61,4 @@ This section is under construction and will need more thought. Here are some bro
   - Clean Code: A Handbook of Agile Software Craftsmanship by Robert Martin
 - Watching the following (Python) videos:
   - [Cohesion and coupling](https://youtu.be/eiDyK_ofPPM)
-  - [De
+  - [Dependency inversion](ht
