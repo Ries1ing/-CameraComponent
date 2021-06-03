@@ -62,4 +62,4 @@ This section is under construction and will need more thought. Here are some bro
 - Watching the following (Python) videos:
   - [Cohesion and coupling](https://youtu.be/eiDyK_ofPPM)
   - [Dependency inversion](https://youtu.be/Kv5jhbSkqLE)
-  - [The s
+  - [The strategy pattern](https:
