@@ -63,4 +63,4 @@ This section is under construction and will need more thought. Here are some bro
   - [Cohesion and coupling](https://youtu.be/eiDyK_ofPPM)
   - [Dependency inversion](https://youtu.be/Kv5jhbSkqLE)
   - [The strategy pattern](https://youtu.be/WQ8bNdxREHU)
-  - [The observer patt
+  - [The observer pattern](https://youtu.be/oNalXg67XEE
