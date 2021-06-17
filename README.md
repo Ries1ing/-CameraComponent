@@ -64,4 +64,5 @@ This section is under construction and will need more thought. Here are some bro
   - [Dependency inversion](https://youtu.be/Kv5jhbSkqLE)
   - [The strategy pattern](https://youtu.be/WQ8bNdxREHU)
   - [The observer pattern](https://youtu.be/oNalXg67XEE)
-  - [Unit testing and code coverage](https://youtu.be/jmP3f
+  - [Unit testing and code coverage](https://youtu.be/jmP3fp_BhmE)
+  - [T
