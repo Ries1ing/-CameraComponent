@@ -67,4 +67,4 @@ This section is under construction and will need more thought. Here are some bro
   - [Unit testing and code coverage](https://youtu.be/jmP3fp_BhmE)
   - [Template method and bridge](https://youtu.be/t0mCrXHsLbI)
   - [Exception handling](https://youtu.be/ZsvftkbbrR0)
-  - [Monadic erro
+  - [Monadic error handling](https://
