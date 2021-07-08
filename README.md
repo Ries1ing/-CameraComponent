@@ -68,4 +68,4 @@ This section is under construction and will need more thought. Here are some bro
   - [Template method and bridge](https://youtu.be/t0mCrXHsLbI)
   - [Exception handling](https://youtu.be/ZsvftkbbrR0)
   - [Monadic error handling](https://youtu.be/J-HWmoTKhC8)
-  - [Soft
+  - [Software architecture](h
