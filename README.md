@@ -69,4 +69,4 @@ This section is under construction and will need more thought. Here are some bro
   - [Exception handling](https://youtu.be/ZsvftkbbrR0)
   - [Monadic error handling](https://youtu.be/J-HWmoTKhC8)
   - [Software architecture](https://youtu.be/ihtIcGkTFBU)
-  - [SOLID principles](https://y
+  - [SOLID principles](https://youtu.be/pTB30aXS7
