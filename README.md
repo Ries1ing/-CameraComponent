@@ -70,4 +70,4 @@ This section is under construction and will need more thought. Here are some bro
   - [Monadic error handling](https://youtu.be/J-HWmoTKhC8)
   - [Software architecture](https://youtu.be/ihtIcGkTFBU)
   - [SOLID principles](https://youtu.be/pTB30aXS77U)
-  - [Object cre
+  - [Object creation patterns](https://yout
