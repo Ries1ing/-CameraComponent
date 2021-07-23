@@ -72,4 +72,4 @@ This section is under construction and will need more thought. Here are some bro
   - [SOLID principles](https://youtu.be/pTB30aXS77U)
   - [Object creation patterns](https://youtu.be/Rm4JP7JfsKY)
 
-### Mana
+### Management and Leadersh
