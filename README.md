@@ -74,4 +74,4 @@ This section is under construction and will need more thought. Here are some bro
 
 ### Management and Leadership
 
-*TODO: Pick and sel
+*TODO: Pick and select key areas to sel
