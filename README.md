@@ -72,4 +72,6 @@ This section is under construction and will need more thought. Here are some bro
   - [SOLID principles](https://youtu.be/pTB30aXS77U)
   - [Object creation patterns](https://youtu.be/Rm4JP7JfsKY)
 
-### Management and Leadersh
+### Management and Leadership
+
+*TODO: Pick and sel
