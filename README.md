@@ -74,4 +74,4 @@ This section is under construction and will need more thought. Here are some bro
 
 ### Management and Leadership
 
-*TODO: Pick and select key areas to select from [this **excellent** repo](https://github.com/LappleApple/awesome-lea
+*TODO: Pick and select key areas to select from [this **excellent** repo](https://github.com/LappleApple/awesome-leading-and-managing).*
