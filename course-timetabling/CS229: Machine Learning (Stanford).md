@@ -55,3 +55,22 @@
 - Introduction [[pptx](https://cs229.stanford.edu/summer2019/CS229-Intro.pptx)]
 - Linear Algebra (section 1-3) [[pdf](https://cs229.stanford.edu/summer2019/cs229-linalg.pdf)]
 - Linear Algebra (section 4) [[pdf](https://cs229.stanford.edu/summer2019/cs229-linalg.pdf)]
+- Probability Theory [[pdf](https://cs229.stanford.edu/summer2019/cs229-prob.pdf)]
+- Probability Theory Slides [[pdf](https://cs229.stanford.edu/summer2019/cs229-prob-slide.pdf)]
+
+
+## Week 2
+**Due Date: 2022-02-07**
+
+- Review of Probability and Statistics
+- Setting of Supervised Learning
+- Linear Regression
+- [Stochastic] Gradient Descent ([S]GD)
+- Normal Equations
+- Probabilistic Interpretation
+- Maximum Likelihood Estimation (MLE)
+
+
+### Event
+- [Lecture 3](https://www.youtube.com/watch?v=Mi8wnYc1m04)
+- [Lecture 4](https://www.youtube.com/watch?v=lNHaZlZJATw)
