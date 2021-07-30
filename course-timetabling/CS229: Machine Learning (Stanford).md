@@ -34,3 +34,24 @@
   - [Week 11](#week-11)
     - [Event](#event-10)
     - [Materials and Assignments](#materials-and-assignments-10)
+
+**Start Date: 2022-01-24**
+
+**End Date: 2022-04-18**
+
+
+## Week 1
+**Due Date: 2022-01-31**
+
+- Introduction and Logistics
+- Review of Linear Algebra
+- Review of Matrix Calculus
+- Review of Probability
+### Event
+- [Lecture 1](https://www.youtube.com/watch?v=KzH1ovd4Ots)
+- [Lecture 2](https://www.youtube.com/watch?v=b0HvwszmqcQ)
+
+### Materials and Assignments
+- Introduction [[pptx](https://cs229.stanford.edu/summer2019/CS229-Intro.pptx)]
+- Linear Algebra (section 1-3) [[pdf](https://cs229.stanford.edu/summer2019/cs229-linalg.pdf)]
+- Linear Algebra (section 4) [[pdf](https://cs229.stanford.edu/summer2019/cs229-linalg.pdf)]
