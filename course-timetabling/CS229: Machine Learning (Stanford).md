@@ -74,3 +74,24 @@
 ### Event
 - [Lecture 3](https://www.youtube.com/watch?v=Mi8wnYc1m04)
 - [Lecture 4](https://www.youtube.com/watch?v=lNHaZlZJATw)
+
+### Materials and Assignments
+- Supervised Learning [[pdf](https://cs229.stanford.edu/summer2019/cs229-notes1.pdf)]
+- Probability Theory [[pdf](https://cs229.stanford.edu/summer2019/cs229-prob.pdf)]
+- Supervised Learning (section 1-3) [[pdf](https://cs229.stanford.edu/summer2019/cs229-notes1.pdf)]
+
+
+## Week 3
+**Due Date: 2022-02-14**
+
+- Perceptron
+- Logistic Regression
+- Newton's Method
+- Exponential Family
+- Generalized Linear Models (GLM)
+
+### Event
+- [Lecture 5](https://www.youtube.com/watch?v=WViuTuAOPlM)
+- [Lecture 6](https://www.youtube.com/watch?v=sj0iPn03i7Q)
+
+### Materials and Assignments
