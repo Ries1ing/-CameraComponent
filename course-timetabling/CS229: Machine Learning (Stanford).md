@@ -119,3 +119,15 @@
 
 ## Week 5
 **Due Date: 2022-02-28**
+
+- Bayesian Methods
+- Parametric (Bayesian Linear Regression)
+- Non-parametric (Gaussian process)
+- Neural Networks and Deep Learning
+
+### Event
+- [Lecture 9](https://www.youtube.com/watch?v=IgUi7BDe1DQ)
+- [Lecture 10](https://www.youtube.com/watch?v=mpJ2bFF6o8s)
+
+### Materials and Assignments
+- Gaussian Processes [[pdf](https://cs229.stanford.edu/summer2019/gaussian_processes.pdf)]
