@@ -95,3 +95,27 @@
 - [Lecture 6](https://www.youtube.com/watch?v=sj0iPn03i7Q)
 
 ### Materials and Assignments
+- Supervised Learning (section 5-7) [[pdf](https://cs229.stanford.edu/summer2019/cs229-notes1.pdf)]
+- Supervised Learning (section 8-9) [[pdf](https://cs229.stanford.edu/summer2019/cs229-notes1.pdf)]
+
+
+## Week 4
+**Due Date: 2022-02-21**
+
+- Gaussian Discriminant Analysis (GDA)
+- Naive Bayes
+- Laplace Smoothing
+- Kernel Methods
+- Support Vector Machine
+
+### Event
+- [Lecture 7](https://www.youtube.com/watch?v=yieIOW9Kaw4)
+- [Lecture 8](https://www.youtube.com/watch?v=p61QzJakQxg)
+
+### Materials and Assignments
+- Generative Algorithms [[pdf](https://cs229.stanford.edu/summer2019/cs229-notes2.pdf)]
+- Kernel Methods and SVM [[pdf](https://cs229.stanford.edu/summer2019/cs229-notes3.pdf)]
+
+
+## Week 5
+**Due Date: 2022-02-28**
