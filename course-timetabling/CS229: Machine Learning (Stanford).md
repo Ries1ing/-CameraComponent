@@ -131,3 +131,19 @@
 
 ### Materials and Assignments
 - Gaussian Processes [[pdf](https://cs229.stanford.edu/summer2019/gaussian_processes.pdf)]
+- The Multivariate Gaussian Distribution [[pdf](https://cs229.stanford.edu/summer2019/gaussians.pdf)]
+- More on Gaussian Distribution [[pdf](https://cs229.stanford.edu/summer2019/more_on_gaussians.pdf)]
+- Deep Learning (skip Sec 3.3) [[pdf](https://cs229.stanford.edu/summer2019/cs229-notes-deep_learning.pdf)]
+- Backpropagation [[pdf](https://cs229.stanford.edu/notes-spring2019/backprop.pdf)]
+
+
+## Week 6
+**Due Date: 2022-03-07**
+
+- Deep Learning (contd)
+- Bias and Variance
+- Regularization, Bayesian Interpretation
+- Model Selection
+
+### Event
+- [Lecture 11](https://www.youtube.com/watch?v=4wmqDaFhs9E)
