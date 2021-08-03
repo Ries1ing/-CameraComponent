@@ -147,3 +147,22 @@
 
 ### Event
 - [Lecture 11](https://www.youtube.com/watch?v=4wmqDaFhs9E)
+- [Lecture 12](https://www.youtube.com/watch?v=XhyOAX6oSX4)
+
+### Materials and Assignments
+- Regularization and Model Selection [[pdf](https://cs229.stanford.edu/summer2019/cs229-notes5.pdf)]
+
+
+## Week 7
+**Due Date: 2022-03-14**
+
+- Bias-Variance tradeoff (wrap-up)
+- Empirical Risk Minimization
+- Uniform Convergence
+- Reinforcement Learning (RL)
+- Markov Decision Processes (MDP)
+- Value and Policy Iterations
+
+### Event
+- [Lecture 13](https://www.youtube.com/watch?v=AbhV49lfaWw)
+- [Lecture 14](https://www.youtube.com/watch?v=jNevGGOkklE)
