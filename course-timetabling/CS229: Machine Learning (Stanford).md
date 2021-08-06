@@ -166,3 +166,29 @@
 ### Event
 - [Lecture 13](https://www.youtube.com/watch?v=AbhV49lfaWw)
 - [Lecture 14](https://www.youtube.com/watch?v=jNevGGOkklE)
+
+### Materials and Assignments
+- Bias Variance Analysis [[pdf](https://cs229.stanford.edu/summer2019/BiasVarianceAnalysis.pdf)]
+- Statistical Learning Theory [[pdf](https://cs229.stanford.edu/summer2019/cs229-notes4.pdf)]
+- Reinforcement Learning and Control (Sec 1-2) [[pdf](https://cs229.stanford.edu/summer2019/cs229-notes12.pdf)]
+
+
+## Week 8
+**Due Date: 2022-03-21**
+
+- RL (wrap-up)
+- Learning MDP model
+- Continuous States
+
+Unsupervised Learning:
+- K-means clustering
+- Mixture of Gaussians (GMM)
+- Expectation Maximization (EM)
+
+### Event
+- [Lecture 15](https://www.youtube.com/watch?v=4BbHU2_wphg)
+- [Lecture 16](https://www.youtube.com/watch?v=LmpkKwsyQj4)
+
+### Materials and Assignments
+- Reinforcement Learning and Control (Sec 3-4) [[pdf](https://cs229.stanford.edu/summer2019/cs229-notes12.pdf)]
+- K-means [[pdf](https://cs229.stanford.edu/summer2019/cs229-notes7a.pdf)]
