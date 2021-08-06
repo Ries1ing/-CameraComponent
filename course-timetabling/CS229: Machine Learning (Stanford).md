@@ -232,3 +232,17 @@ None
 ### Materials and Assignments
 - Maximum Entropy [[pdf](https://cs229.stanford.edu/summer2019/MaxEnt.pdf)]
 - VAE (Sec 4) [[pdf](https://cs229.stanford.edu/summer2019/cs229-notes8.pdf)]
+
+
+## Week 11
+**Due Date: 2022-04-11**
+
+- Evaluation Metrics
+- Practical advice and tips
+- Review for Finals
+
+### Event
+None
+
+### Materials and Assignments
+- Evaluation Metrics [[pptx](https://cs229.stanford.edu/summer2019/EvaluationMetrics.pptx)]
