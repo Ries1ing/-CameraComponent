@@ -192,3 +192,23 @@ Unsupervised Learning:
 ### Materials and Assignments
 - Reinforcement Learning and Control (Sec 3-4) [[pdf](https://cs229.stanford.edu/summer2019/cs229-notes12.pdf)]
 - K-means [[pdf](https://cs229.stanford.edu/summer2019/cs229-notes7a.pdf)]
+- Mixture of Gaussians [[pdf](https://cs229.stanford.edu/summer2019/cs229-notes7b.pdf)]
+- Expectation Maximization (Sec 1-2, skip 2.1) [[pdf](https://cs229.stanford.edu/summer2019/cs229-notes8.pdf)]
+
+
+## Week 9
+**Due Date: 2022-03-28**
+
+- EM (wrap-up)
+- Factor Analysis
+- Factor Analysis (wrap-up)
+- Principal Components Analysis (PCA)
+- Independent Components Analysis (ICA)
+
+### Event
+- [Lecture 17](https://www.youtube.com/watch?v=pA-bo8_HNy4)
+- [Lecture 18](https://www.youtube.com/watch?v=7pJ6XNvpO8M)
+
+### Materials and Assignments
+- Expectation Maximization (Sec 3) [[pdf](https://cs229.stanford.edu/summer2019/cs229-notes8.pdf)]
+- Factor Analysis [[pdf](https://cs229.stanford.edu/summer2019/cs229-notes9.pdf)]
