@@ -212,3 +212,23 @@ Unsupervised Learning:
 ### Materials and Assignments
 - Expectation Maximization (Sec 3) [[pdf](https://cs229.stanford.edu/summer2019/cs229-notes8.pdf)]
 - Factor Analysis [[pdf](https://cs229.stanford.edu/summer2019/cs229-notes9.pdf)]
+- Principal Components Analysis [[pdf](https://cs229.stanford.edu/summer2019/cs229-notes10.pdf)]
+- Independent Components Analysis [[pdf](https://cs229.stanford.edu/summer2019/cs229-notes11.pdf)]
+
+
+## Week 10
+**Due Date: 2022-04-04**
+
+- Maximum Entropy and Exponential Family
+- KL-Divergence
+- Calibration and Proper Scoring Rules
+- Variational Inference
+- EM Variants
+- Variational Autoencoder
+
+### Event
+None
+
+### Materials and Assignments
+- Maximum Entropy [[pdf](https://cs229.stanford.edu/summer2019/MaxEnt.pdf)]
+- VAE (Sec 4) [[pdf](https://cs229.stanford.edu/summer2019/cs229-notes8.pdf)]
