@@ -7,3 +7,5 @@ The goal with each week is to commit on average 6hrs of learning. The 6hrs measu
 ## Timetable
 
 | Course | Start Date | Due Date   |
+|-------:|-----------:|------------|
+| [CS229: Machine Learning (Stanford)](CS229:%20Machine%20Learning%20(Stanford).md) | 2022-01-24 | 2022-04-18 |
