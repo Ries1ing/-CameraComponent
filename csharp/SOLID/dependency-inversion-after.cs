@@ -30,3 +30,24 @@ namespace DependencyInversionAfter {
 
             return total;
         }
+    }
+
+    public interface IAuthorizer {
+        public bool Authorized { set; get; }
+        public bool IsAuthorized();
+    }
+
+    public class AuthorizerSMS : IAuthorizer {
+
+        public bool Authorized { get; set; }
+
+        public AuthorizerSMS() {
+            this.Authorized = false;
+        }
+
+        public void VerifyCode(string code) {
+            Console.WriteLine($"Verifying SMS code: {code}");
+            this.Authorized = true;
+        }
+
+        public bool IsAuthorized() {
