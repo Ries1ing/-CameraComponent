@@ -101,3 +101,27 @@ namespace DependencyInversionAfter {
             this.SecurityCode = securityCode;
             this.Authorizer = authorizer;
         }
+
+        public void Pay(Order order) {
+            if (!this.Authorizer.Authorized) {
+                throw new Exception("Not authorized");
+            }
+            Console.WriteLine("Processing debit payment type");
+            Console.WriteLine($"Verifying security code: {this.SecurityCode}");
+            order.Status = "paid";
+        }
+    }
+
+    public class CreditPaymentProcessor : IPaymentProcessor {
+        private string SecurityCode { get; }
+
+        public CreditPaymentProcessor(string securityCode) {
+            this.SecurityCode = securityCode;
+        }
+
+        public void Pay(Order order) {
+            Console.WriteLine("Processing credit payment type");
+            Console.WriteLine($"Verifying security code: {this.SecurityCode}");
+            order.Status = "paid";
+        }
+    }
