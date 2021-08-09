@@ -81,3 +81,23 @@ namespace DependencyInversionAfter {
 
         public void NotARobot() {
             this.Authorized = true;
+        }
+
+        public bool IsAuthorized() {
+            return this.Authorized;
+        }
+    }
+
+    public interface IPaymentProcessor {
+        public void Pay(Order order);
+    }
+
+    public class DebitPaymentProcessor : IPaymentProcessor {
+
+        private string SecurityCode { get; }
+        private IAuthorizer Authorizer { get; set; }
+
+        public DebitPaymentProcessor(string securityCode, IAuthorizer authorizer) {
+            this.SecurityCode = securityCode;
+            this.Authorizer = authorizer;
+        }
