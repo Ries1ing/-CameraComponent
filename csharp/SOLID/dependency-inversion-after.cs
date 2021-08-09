@@ -51,3 +51,33 @@ namespace DependencyInversionAfter {
         }
 
         public bool IsAuthorized() {
+            return this.Authorized;
+        }
+    }
+
+    public class AuthorizerGoogle : IAuthorizer {
+        public bool Authorized { get; set; }
+
+        public AuthorizerGoogle() {
+            this.Authorized = false;
+        }
+
+        public void VerifyCode(string code) {
+            Console.WriteLine($"Verifying Google auth code: {code}");
+            this.Authorized = true;
+        }
+
+        public bool IsAuthorized() {
+            return this.Authorized;
+        }
+    }
+
+    public class AuthorizerRobot : IAuthorizer {
+        public bool Authorized { get; set; }
+
+        public AuthorizerRobot() {
+            this.Authorized = false;
+        }
+
+        public void NotARobot() {
+            this.Authorized = true;
