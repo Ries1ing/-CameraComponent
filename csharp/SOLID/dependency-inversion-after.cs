@@ -125,3 +125,21 @@ namespace DependencyInversionAfter {
             order.Status = "paid";
         }
     }
+
+    public class PaypalPaymentProcessor : IPaymentProcessor {
+        private string EmailAddress { get; }
+        private IAuthorizer Authorizer { get; set; }
+        
+
+        public PaypalPaymentProcessor(string emailAddress, IAuthorizer authorizer) {
+            this.EmailAddress = emailAddress;
+            this.Authorizer = authorizer;
+        }
+
+        public void Pay(Order order) {
+            if (!this.Authorizer.Authorized) {
+                throw new Exception("Not authorized");
+            }
+            Console.WriteLine("Processing paypal payment type");
+            Console.WriteLine($"Verifying email address: {this.EmailAddress}");
+            order.Status = "paid";
