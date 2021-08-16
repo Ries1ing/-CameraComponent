@@ -2,4 +2,5 @@
 
 namespace DependencyInversionBefore {
     public class Order {
-        public List<string> Items { g
+        public List<string> Items { get; set; }
+        publi
