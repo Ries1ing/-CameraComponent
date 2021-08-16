@@ -2,4 +2,4 @@
 
 namespace DependencyInversionBefore {
     public class Order {
-        public Li
+        public List<string> Items { g
