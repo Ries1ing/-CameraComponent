@@ -3,4 +3,5 @@
 namespace DependencyInversionBefore {
     public class Order {
         public List<string> Items { get; set; }
-        public List<int> Quantities
+        public List<int> Quantities { get; set; }
+        
