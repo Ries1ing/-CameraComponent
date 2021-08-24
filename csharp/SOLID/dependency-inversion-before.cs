@@ -8,4 +8,4 @@ namespace DependencyInversionBefore {
         public string Status { get; set; }
 
         public Order() {
-    
+            this.Items
