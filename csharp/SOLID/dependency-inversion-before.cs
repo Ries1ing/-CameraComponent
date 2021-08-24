@@ -7,4 +7,5 @@ namespace DependencyInversionBefore {
         public List<double> Prices { get; set; }
         public string Status { get; set; }
 
-        p
+        public Order() {
+    
