@@ -9,4 +9,4 @@ namespace DependencyInversionBefore {
 
         public Order() {
             this.Items = new List<string>();
-            this.Qu
+            this.Quantities = ne
