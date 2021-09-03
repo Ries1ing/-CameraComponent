@@ -14,4 +14,4 @@ namespace DependencyInversionBefore {
             this.Status = "open";
         }
 
-        public void AddIt
+        public void AddItem(string name, int quan
