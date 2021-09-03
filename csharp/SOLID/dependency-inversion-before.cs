@@ -14,4 +14,4 @@ namespace DependencyInversionBefore {
             this.Status = "open";
         }
 
-        pub
+        public void AddIt
