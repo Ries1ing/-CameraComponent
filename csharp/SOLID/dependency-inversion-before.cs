@@ -12,4 +12,6 @@ namespace DependencyInversionBefore {
             this.Quantities = new List<int>();
             this.Prices = new List<double>();
             this.Status = "open";
-    
+        }
+
+        pub
