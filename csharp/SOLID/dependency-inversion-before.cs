@@ -14,4 +14,5 @@ namespace DependencyInversionBefore {
             this.Status = "open";
         }
 
-        public void AddItem(string name, int quan
+        public void AddItem(string name, int quantity, double price) {
+   
