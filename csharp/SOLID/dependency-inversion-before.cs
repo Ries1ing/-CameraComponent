@@ -17,4 +17,4 @@ namespace DependencyInversionBefore {
         public void AddItem(string name, int quantity, double price) {
             this.Items.Add(name);
             this.Quantities.Add(quantity);
-        
+            this.Prices.Add(p
