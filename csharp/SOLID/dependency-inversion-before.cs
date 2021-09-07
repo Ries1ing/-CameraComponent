@@ -20,4 +20,4 @@ namespace DependencyInversionBefore {
             this.Prices.Add(price);
         }
 
-  
+        public double TotalPric
