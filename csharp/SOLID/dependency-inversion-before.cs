@@ -21,4 +21,6 @@ namespace DependencyInversionBefore {
         }
 
         public double TotalPrice() {
-            doubl
+            double total = 0;
+
+     
