@@ -28,4 +28,7 @@ namespace DependencyInversionBefore {
             }
 
             return total;
-      
+        }
+    }
+
+    public
