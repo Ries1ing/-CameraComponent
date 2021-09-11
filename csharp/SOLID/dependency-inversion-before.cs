@@ -27,4 +27,5 @@ namespace DependencyInversionBefore {
                 total += this.Quantities[i] * this.Prices[i];
             }
 
-            r
+            return total;
+      
