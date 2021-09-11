@@ -31,4 +31,4 @@ namespace DependencyInversionBefore {
         }
     }
 
-    public
+    public class SMSAuthorizer {
