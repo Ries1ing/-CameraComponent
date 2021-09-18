@@ -35,4 +35,5 @@ namespace DependencyInversionBefore {
 
         public bool Authorized { get; set; }
 
-        public SMSAuthorize
+        public SMSAuthorizer() {
+            th
