@@ -39,4 +39,4 @@ namespace DependencyInversionBefore {
             this.Authorized = false;
         }
 
-        public
+        public void VerifyCode(string code) {
