@@ -40,4 +40,4 @@ namespace DependencyInversionBefore {
         }
 
         public void VerifyCode(string code) {
-            Console.W
+            Console.WriteLine($"Verifyi
