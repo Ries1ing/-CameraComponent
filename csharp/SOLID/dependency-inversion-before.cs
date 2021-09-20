@@ -40,4 +40,5 @@ namespace DependencyInversionBefore {
         }
 
         public void VerifyCode(string code) {
-            Console.WriteLine($"Verifyi
+            Console.WriteLine($"Verifying SMS code: {code}");
+   
