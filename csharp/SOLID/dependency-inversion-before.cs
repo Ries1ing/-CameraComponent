@@ -43,3 +43,6 @@ namespace DependencyInversionBefore {
             Console.WriteLine($"Verifying SMS code: {code}");
             this.Authorized = true;
         }
+    }
+
+    public i
