@@ -45,4 +45,4 @@ namespace DependencyInversionBefore {
         }
     }
 
-    public i
+    public interface IPaymentProces
