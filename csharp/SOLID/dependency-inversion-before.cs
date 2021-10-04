@@ -46,4 +46,4 @@ namespace DependencyInversionBefore {
     }
 
     public interface IPaymentProcessor {
-        publ
+        public void Pay(Order order);
