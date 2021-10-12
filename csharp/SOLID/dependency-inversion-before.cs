@@ -49,4 +49,4 @@ namespace DependencyInversionBefore {
         public void Pay(Order order);
     }
 
-    publi
+    public class DebitPaymen
