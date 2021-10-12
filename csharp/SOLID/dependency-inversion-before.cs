@@ -47,3 +47,6 @@ namespace DependencyInversionBefore {
 
     public interface IPaymentProcessor {
         public void Pay(Order order);
+    }
+
+    publi
