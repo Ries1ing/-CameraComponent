@@ -49,4 +49,6 @@ namespace DependencyInversionBefore {
         public void Pay(Order order);
     }
 
-    public class DebitPaymentProcessor : IPaym
+    public class DebitPaymentProcessor : IPaymentProcessor {
+
+ 
