@@ -51,4 +51,4 @@ namespace DependencyInversionBefore {
 
     public class DebitPaymentProcessor : IPaymentProcessor {
 
- 
+        private string
