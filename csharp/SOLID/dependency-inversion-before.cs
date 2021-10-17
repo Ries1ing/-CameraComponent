@@ -51,4 +51,5 @@ namespace DependencyInversionBefore {
 
     public class DebitPaymentProcessor : IPaymentProcessor {
 
-        private string SecurityCode { get; 
+        private string SecurityCode { get; }
+        private SMSA
