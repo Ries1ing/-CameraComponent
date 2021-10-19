@@ -52,4 +52,4 @@ namespace DependencyInversionBefore {
     public class DebitPaymentProcessor : IPaymentProcessor {
 
         private string SecurityCode { get; }
-        private SMSA
+        private SMSAuthorizer Authorizer
