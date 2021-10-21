@@ -52,4 +52,6 @@ namespace DependencyInversionBefore {
     public class DebitPaymentProcessor : IPaymentProcessor {
 
         private string SecurityCode { get; }
-        private SMSAuthorizer Authorizer
+        private SMSAuthorizer Authorizer { get; set; }
+
+        
