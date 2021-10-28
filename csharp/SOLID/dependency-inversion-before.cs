@@ -54,4 +54,4 @@ namespace DependencyInversionBefore {
         private string SecurityCode { get; }
         private SMSAuthorizer Authorizer { get; set; }
 
-        public DebitPaymentProcessor(string security
+        public DebitPaymentProcessor(string securityCode, SMSAuthorize
