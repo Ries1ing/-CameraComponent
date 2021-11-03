@@ -59,4 +59,4 @@ namespace DependencyInversionBefore {
             this.Authorizer = authorizer;
         }
 
-       
+        public void Pay(Orde
