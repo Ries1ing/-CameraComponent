@@ -60,4 +60,4 @@ namespace DependencyInversionBefore {
         }
 
         public void Pay(Order order) {
-            if 
+            if (!this.Authorizer.Au
