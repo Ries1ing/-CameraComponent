@@ -61,4 +61,4 @@ namespace DependencyInversionBefore {
 
         public void Pay(Order order) {
             if (!this.Authorizer.Authorized) {
-            
+                throw new Except
