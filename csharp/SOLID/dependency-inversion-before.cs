@@ -63,4 +63,4 @@ namespace DependencyInversionBefore {
             if (!this.Authorizer.Authorized) {
                 throw new Exception("Not authorized");
             }
-            Cons
+            Console.WriteLine("Proces
