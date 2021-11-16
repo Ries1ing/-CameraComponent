@@ -64,3 +64,4 @@ namespace DependencyInversionBefore {
                 throw new Exception("Not authorized");
             }
             Console.WriteLine("Processing debit payment type");
+            Console.W
