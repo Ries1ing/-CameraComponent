@@ -67,4 +67,6 @@ namespace DependencyInversionBefore {
             Console.WriteLine($"Verifying security code: {this.SecurityCode}");
             order.Status = "paid";
         }
-   
+    }
+
+    public class C
