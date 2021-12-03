@@ -69,4 +69,4 @@ namespace DependencyInversionBefore {
         }
     }
 
-    public class CreditPaymentProcess
+    public class CreditPaymentProcessor : IPaymentPr
