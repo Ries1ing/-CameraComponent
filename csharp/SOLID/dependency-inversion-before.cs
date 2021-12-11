@@ -70,4 +70,4 @@ namespace DependencyInversionBefore {
     }
 
     public class CreditPaymentProcessor : IPaymentProcessor {
-        priv
+        private string SecurityCod
