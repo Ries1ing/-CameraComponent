@@ -72,4 +72,5 @@ namespace DependencyInversionBefore {
     public class CreditPaymentProcessor : IPaymentProcessor {
         private string SecurityCode { get; }
 
-        public CreditPaymentProcessor(string
+        public CreditPaymentProcessor(string securityCode) {
+  
