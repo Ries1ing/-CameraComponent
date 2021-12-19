@@ -76,4 +76,5 @@ namespace DependencyInversionBefore {
             this.SecurityCode = securityCode;
         }
 
-        public void Pay(Order o
+        public void Pay(Order order) {
+          
