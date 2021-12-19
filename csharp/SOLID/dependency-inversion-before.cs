@@ -77,4 +77,4 @@ namespace DependencyInversionBefore {
         }
 
         public void Pay(Order order) {
-          
+            Console.Write
