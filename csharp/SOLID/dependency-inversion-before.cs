@@ -77,4 +77,5 @@ namespace DependencyInversionBefore {
         }
 
         public void Pay(Order order) {
-            Console.WriteLine("Processing credit
+            Console.WriteLine("Processing credit payment type");
+    
