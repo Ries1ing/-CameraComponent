@@ -78,4 +78,4 @@ namespace DependencyInversionBefore {
 
         public void Pay(Order order) {
             Console.WriteLine("Processing credit payment type");
-            Console.WriteLine($"Verifying security code:
+            Console.WriteLine($"Verifying security code: {this.S
