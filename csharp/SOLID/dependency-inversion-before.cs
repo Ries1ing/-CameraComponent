@@ -84,4 +84,4 @@ namespace DependencyInversionBefore {
     }
 
     public class PaypalPaymentProcessor : IPaymentProcessor {
-        pri
+        private string 
