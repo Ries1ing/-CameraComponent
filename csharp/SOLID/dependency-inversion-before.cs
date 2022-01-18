@@ -88,3 +88,4 @@ namespace DependencyInversionBefore {
         private SMSAuthorizer Authorizer { get; set; }
         
 
+        public P
