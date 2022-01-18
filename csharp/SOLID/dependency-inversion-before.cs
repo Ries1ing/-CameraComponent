@@ -85,4 +85,6 @@ namespace DependencyInversionBefore {
 
     public class PaypalPaymentProcessor : IPaymentProcessor {
         private string EmailAddress { get; }
-        private SMSAuthorizer Authorizer { g
+        private SMSAuthorizer Authorizer { get; set; }
+        
+
