@@ -89,4 +89,5 @@ namespace DependencyInversionBefore {
         
 
         public PaypalPaymentProcessor(string emailAddress, SMSAuthorizer authorizer) {
-            this.EmailAdd
+            this.EmailAddress = emailAddress;
+       
