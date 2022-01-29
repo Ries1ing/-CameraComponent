@@ -93,4 +93,5 @@ namespace DependencyInversionBefore {
             this.Authorizer = authorizer;
         }
 
-        public void Pay(Orde
+        public void Pay(Order order) {
+            if 
