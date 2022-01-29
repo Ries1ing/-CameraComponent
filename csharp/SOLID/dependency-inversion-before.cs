@@ -95,4 +95,4 @@ namespace DependencyInversionBefore {
 
         public void Pay(Order order) {
             if (!this.Authorizer.Authorized) {
-                t
+                throw new Exception("Not auth
