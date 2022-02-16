@@ -98,4 +98,4 @@ namespace DependencyInversionBefore {
                 throw new Exception("Not authorized");
             }
             Console.WriteLine("Processing paypal payment type");
-            Con
+            Console.WriteLine($"Verifyin
