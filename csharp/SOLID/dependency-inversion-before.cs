@@ -97,4 +97,4 @@ namespace DependencyInversionBefore {
             if (!this.Authorizer.Authorized) {
                 throw new Exception("Not authorized");
             }
-            Console.WriteL
+            Console.WriteLine("Processing paypal payme
