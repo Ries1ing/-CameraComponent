@@ -99,4 +99,4 @@ namespace DependencyInversionBefore {
             }
             Console.WriteLine("Processing paypal payment type");
             Console.WriteLine($"Verifying email address: {this.EmailAddress}");
-            order.
+            order.Status = "paid";
