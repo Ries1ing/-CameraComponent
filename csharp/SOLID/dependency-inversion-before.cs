@@ -103,3 +103,4 @@ namespace DependencyInversionBefore {
         }
     }
 
+    public class Program {
