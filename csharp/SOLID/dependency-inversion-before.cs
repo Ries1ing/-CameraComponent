@@ -107,4 +107,4 @@ namespace DependencyInversionBefore {
         public static void Run() {
             Order order = new Order();
             order.AddItem("Keyboard", 1, 50);
-  
+            order.Add
