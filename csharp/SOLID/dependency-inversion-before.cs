@@ -111,4 +111,5 @@ namespace DependencyInversionBefore {
             order.AddItem("USB cable", 2, 5);
 
             Console.WriteLine(order.TotalPrice());
-            SMSAuthorizer authorizer =  new SMSAuthorize
+            SMSAuthorizer authorizer =  new SMSAuthorizer();
+            authoriz
