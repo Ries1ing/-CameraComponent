@@ -112,4 +112,4 @@ namespace DependencyInversionBefore {
 
             Console.WriteLine(order.TotalPrice());
             SMSAuthorizer authorizer =  new SMSAuthorizer();
-            authoriz
+            authorizer.VerifyCode("465
