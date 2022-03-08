@@ -113,4 +113,4 @@ namespace DependencyInversionBefore {
             Console.WriteLine(order.TotalPrice());
             SMSAuthorizer authorizer =  new SMSAuthorizer();
             authorizer.VerifyCode("465839");
-            IPaymentProcessor pro
+            IPaymentProcessor processor = new DebitP
