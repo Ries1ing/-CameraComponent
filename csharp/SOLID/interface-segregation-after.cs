@@ -18,3 +18,20 @@ namespace InterfaceSegregationAfter {
         public void AddItem(string name, int quantity, double price) {
             this.Items.Add(name);
             this.Quantities.Add(quantity);
+            this.Prices.Add(price);
+        }
+
+        public double TotalPrice() {
+            double total = 0;
+
+            for (int i = 0; i < this.Prices.Count; i++) {
+                total += this.Quantities[i] * this.Prices[i];
+            }
+
+            return total;
+        }
+    }
+
+    public interface IPaymentProcessor {
+        public void Pay(Order order);
+    }
