@@ -56,3 +56,29 @@ namespace InterfaceSegregationBefore {
             if (!this.Verified) {
                 throw new Exception("Not authorized");
             }
+            Console.WriteLine("Processing debit payment type");
+            Console.WriteLine($"Verifying security code: {this.SecurityCode}");
+            order.Status = "paid";
+        }
+    }
+
+    public class CreditPaymentProcessor : IPaymentProcessor {
+        private string SecurityCode { get; }
+
+        public CreditPaymentProcessor(string securityCode) {
+            this.SecurityCode = securityCode;
+        }
+
+        public void AuthSMS(string code) {
+            throw new Exception("Credit card payments don't support SMS code authorization.");
+        }
+
+        public void Pay(Order order) {
+            Console.WriteLine("Processing credit payment type");
+            Console.WriteLine($"Verifying security code: {this.SecurityCode}");
+            order.Status = "paid";
+        }
+    }
+
+    public class PaypalPaymentProcessor : IPaymentProcessor {
+        private string EmailAddress { get; }
