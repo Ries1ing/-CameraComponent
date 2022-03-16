@@ -33,3 +33,26 @@ namespace InterfaceSegregationBefore {
     }
 
     public interface IPaymentProcessor {
+        public void AuthSMS(string code);
+        public void Pay(Order order);
+    }
+
+    public class DebitPaymentProcessor : IPaymentProcessor {
+
+        private string SecurityCode { get; }
+        private bool Verified { set; get; }
+
+        public DebitPaymentProcessor(string securityCode) {
+            this.SecurityCode = securityCode;
+            this.Verified = false;
+        }
+
+        public void AuthSMS(string code) {
+            Console.WriteLine($"Verifying SMS code {code}");
+            this.Verified = true;
+        }
+
+        public void Pay(Order order) {
+            if (!this.Verified) {
+                throw new Exception("Not authorized");
+            }
