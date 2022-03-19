@@ -112,3 +112,7 @@ namespace InterfaceSegregationBefore {
             Console.WriteLine(order.TotalPrice());
             IPaymentProcessor processor = new DebitPaymentProcessor("2349875");
             processor.AuthSMS("465839");
+            processor.Pay(order);
+        }
+    }
+}
