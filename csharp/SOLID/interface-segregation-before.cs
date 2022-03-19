@@ -82,3 +82,33 @@ namespace InterfaceSegregationBefore {
 
     public class PaypalPaymentProcessor : IPaymentProcessor {
         private string EmailAddress { get; }
+        private bool Verified { set; get; }
+
+        public PaypalPaymentProcessor(string emailAddress) {
+            this.EmailAddress = emailAddress;
+            this.Verified = false;
+        }
+        public void AuthSMS(string code) {
+            Console.WriteLine($"Verifying SMS code {code}");
+            this.Verified = true;
+        }
+        public void Pay(Order order) {
+            if (!this.Verified) {
+                throw new Exception("Not authorized");
+            }
+            Console.WriteLine("Processing paypal payment type");
+            Console.WriteLine($"Verifying email address: {this.EmailAddress}");
+            order.Status = "paid";
+        }
+    }
+
+    public class Program {
+        public static void Run() {
+            Order order = new Order();
+            order.AddItem("Keyboard", 1, 50);
+            order.AddItem("SSD", 1, 150);
+            order.AddItem("USB cable", 2, 5);
+
+            Console.WriteLine(order.TotalPrice());
+            IPaymentProcessor processor = new DebitPaymentProcessor("2349875");
+            processor.AuthSMS("465839");
