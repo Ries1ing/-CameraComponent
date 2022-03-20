@@ -56,3 +56,16 @@ namespace LiskovSubstitutionAfter {
         public CreditPaymentProcessor(string securityCode) {
             this.SecurityCode = securityCode;
         }
+        public void Pay(Order order) {
+            Console.WriteLine("Processing credit payment type");
+            Console.WriteLine($"Verifying security code: {this.SecurityCode}");
+            order.Status = "paid";
+        }
+    }
+
+    public class PaypalPaymentProcessor : IPaymentProcessor {
+        private string EmailAddress { get; }
+        public PaypalPaymentProcessor(string emailAddress) {
+            this.EmailAddress = emailAddress;
+        }
+        public void Pay(Order order) {
