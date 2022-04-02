@@ -2,4 +2,5 @@
 
 namespace LiskovSubstitutionBefore {
     public class Order {
-        public List<strin
+        public List<string> Items { get; set; }
+   
