@@ -3,4 +3,5 @@
 namespace LiskovSubstitutionBefore {
     public class Order {
         public List<string> Items { get; set; }
-        public List<int> Quantit
+        public List<int> Quantities { get; set; }
+        publi
