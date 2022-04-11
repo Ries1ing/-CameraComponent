@@ -9,4 +9,4 @@ namespace LiskovSubstitutionBefore {
 
         public Order() {
             this.Items = new List<string>();
-            this.Qu
+            this.Quantities = new List<int>();
