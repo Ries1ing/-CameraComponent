@@ -11,3 +11,4 @@ namespace LiskovSubstitutionBefore {
             this.Items = new List<string>();
             this.Quantities = new List<int>();
             this.Prices = new List<double>();
+            this.Stat
