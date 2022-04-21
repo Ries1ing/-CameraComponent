@@ -14,4 +14,4 @@ namespace LiskovSubstitutionBefore {
             this.Status = "open";
         }
 
-        public voi
+        public void AddItem(stri
