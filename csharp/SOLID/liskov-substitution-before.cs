@@ -13,3 +13,5 @@ namespace LiskovSubstitutionBefore {
             this.Prices = new List<double>();
             this.Status = "open";
         }
+
+        public voi
