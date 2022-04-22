@@ -14,4 +14,5 @@ namespace LiskovSubstitutionBefore {
             this.Status = "open";
         }
 
-        public void AddItem(string name, int quantity, d
+        public void AddItem(string name, int quantity, double price) {
+         
