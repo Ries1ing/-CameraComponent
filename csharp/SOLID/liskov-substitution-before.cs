@@ -17,4 +17,4 @@ namespace LiskovSubstitutionBefore {
         public void AddItem(string name, int quantity, double price) {
             this.Items.Add(name);
             this.Quantities.Add(quantity);
-            thi
+            this.Prices.Add(price);
