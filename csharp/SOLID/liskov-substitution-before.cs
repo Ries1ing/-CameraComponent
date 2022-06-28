@@ -21,4 +21,6 @@ namespace LiskovSubstitutionBefore {
         }
 
         public double TotalPrice() {
-            double
+            double total = 0;
+
+    
