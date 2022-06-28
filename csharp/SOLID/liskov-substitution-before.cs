@@ -20,4 +20,5 @@ namespace LiskovSubstitutionBefore {
             this.Prices.Add(price);
         }
 
-        public double TotalPric
+        public double TotalPrice() {
+            double
