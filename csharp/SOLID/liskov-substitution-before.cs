@@ -18,3 +18,6 @@ namespace LiskovSubstitutionBefore {
             this.Items.Add(name);
             this.Quantities.Add(quantity);
             this.Prices.Add(price);
+        }
+
+        public do
