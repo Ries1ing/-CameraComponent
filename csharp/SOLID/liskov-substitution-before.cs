@@ -23,4 +23,4 @@ namespace LiskovSubstitutionBefore {
         public double TotalPrice() {
             double total = 0;
 
-            for (int i = 0
+            for (int i = 0; i < this.Prices.Cou
