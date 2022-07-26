@@ -27,4 +27,5 @@ namespace LiskovSubstitutionBefore {
                 total += this.Quantities[i] * this.Prices[i];
             }
 
-   
+            return total;
+  
