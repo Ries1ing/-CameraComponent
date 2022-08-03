@@ -31,4 +31,4 @@ namespace LiskovSubstitutionBefore {
         }
     }
 
-    pu
+    public interface I
