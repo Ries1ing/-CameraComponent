@@ -31,4 +31,5 @@ namespace LiskovSubstitutionBefore {
         }
     }
 
-    public interface IPaymentProcessor 
+    public interface IPaymentProcessor {
+        public
