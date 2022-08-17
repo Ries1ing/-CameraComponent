@@ -32,4 +32,4 @@ namespace LiskovSubstitutionBefore {
     }
 
     public interface IPaymentProcessor {
-        public
+        public void Pay(Order order,
