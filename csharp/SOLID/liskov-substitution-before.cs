@@ -35,4 +35,4 @@ namespace LiskovSubstitutionBefore {
         public void Pay(Order order, string securityCode);
     }
 
-    public class DebitPaymentProc
+    public class DebitPaymentProcessor : IPaymentProcessor
