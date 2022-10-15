@@ -38,4 +38,4 @@ namespace LiskovSubstitutionBefore {
     public class DebitPaymentProcessor : IPaymentProcessor {
         public void Pay(Order order, string securityCode) {
             Console.WriteLine("Processing debit payment type");
-        
+            Console.WriteLin
