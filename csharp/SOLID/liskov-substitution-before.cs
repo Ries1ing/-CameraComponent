@@ -38,4 +38,5 @@ namespace LiskovSubstitutionBefore {
     public class DebitPaymentProcessor : IPaymentProcessor {
         public void Pay(Order order, string securityCode) {
             Console.WriteLine("Processing debit payment type");
-            Console.WriteLine($"Verifying security 
+            Console.WriteLine($"Verifying security code: {securityCode}");
+    
