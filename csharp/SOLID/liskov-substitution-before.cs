@@ -43,4 +43,4 @@ namespace LiskovSubstitutionBefore {
         }
     }
 
-    public class
+    public class CreditPayment
