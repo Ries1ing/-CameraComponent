@@ -39,4 +39,5 @@ namespace LiskovSubstitutionBefore {
         public void Pay(Order order, string securityCode) {
             Console.WriteLine("Processing debit payment type");
             Console.WriteLine($"Verifying security code: {securityCode}");
-            order.Statu
+            order.Status = "paid";
+        
