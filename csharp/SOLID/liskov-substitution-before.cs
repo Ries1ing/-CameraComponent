@@ -40,4 +40,7 @@ namespace LiskovSubstitutionBefore {
             Console.WriteLine("Processing debit payment type");
             Console.WriteLine($"Verifying security code: {securityCode}");
             order.Status = "paid";
-        
+        }
+    }
+
+    public class
