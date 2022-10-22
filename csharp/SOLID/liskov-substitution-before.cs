@@ -43,4 +43,4 @@ namespace LiskovSubstitutionBefore {
         }
     }
 
-    public class CreditPayment
+    public class CreditPaymentProcessor : IPaymentProc
