@@ -45,4 +45,4 @@ namespace LiskovSubstitutionBefore {
 
     public class CreditPaymentProcessor : IPaymentProcessor {
         public void Pay(Order order, string securityCode) {
-            Console.WriteLine("P
+            Console.WriteLine("Processing credit payment typ
