@@ -51,4 +51,5 @@ namespace LiskovSubstitutionBefore {
         }
     }
 
-    public class PaypalPaymentProcesso
+    public class PaypalPaymentProcessor : IPaymentProcessor {
+        p
