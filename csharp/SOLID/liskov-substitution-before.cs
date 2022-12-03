@@ -51,4 +51,4 @@ namespace LiskovSubstitutionBefore {
         }
     }
 
-    public c
+    public class PaypalPaymentProcesso
