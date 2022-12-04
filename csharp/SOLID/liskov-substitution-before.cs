@@ -53,4 +53,4 @@ namespace LiskovSubstitutionBefore {
 
     public class PaypalPaymentProcessor : IPaymentProcessor {
         public void Pay(Order order, string securityCode) {
-            Console.
+            Console.WriteLine("Processing paypal
