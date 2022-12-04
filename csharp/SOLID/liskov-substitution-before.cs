@@ -52,4 +52,5 @@ namespace LiskovSubstitutionBefore {
     }
 
     public class PaypalPaymentProcessor : IPaymentProcessor {
-        public void Pay(Order order, string securityCode) 
+        public void Pay(Order order, string securityCode) {
+            Console.
