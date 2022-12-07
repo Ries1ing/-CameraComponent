@@ -55,4 +55,5 @@ namespace LiskovSubstitutionBefore {
         public void Pay(Order order, string securityCode) {
             Console.WriteLine("Processing paypal payment type");
             Console.WriteLine($"Verifying email address: {securityCode}");
-            orde
+            order.Status = "paid";
+ 
