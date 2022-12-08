@@ -59,4 +59,5 @@ namespace LiskovSubstitutionBefore {
         }
     }
 
-    public class Pro
+    public class Program {
+        publ
