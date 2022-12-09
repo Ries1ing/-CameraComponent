@@ -60,4 +60,5 @@ namespace LiskovSubstitutionBefore {
     }
 
     public class Program {
-        publ
+        public static void Run() {
+ 
