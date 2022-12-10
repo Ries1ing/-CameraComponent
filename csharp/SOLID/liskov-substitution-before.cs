@@ -61,4 +61,5 @@ namespace LiskovSubstitutionBefore {
 
     public class Program {
         public static void Run() {
-            Order orde
+            Order order = new Order();
+   
