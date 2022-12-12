@@ -63,4 +63,5 @@ namespace LiskovSubstitutionBefore {
         public static void Run() {
             Order order = new Order();
             order.AddItem("Keyboard", 1, 50);
-            order.AddIt
+            order.AddItem("SSD", 1, 150);
+      
