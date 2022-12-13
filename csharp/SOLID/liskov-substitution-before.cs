@@ -64,4 +64,6 @@ namespace LiskovSubstitutionBefore {
             Order order = new Order();
             order.AddItem("Keyboard", 1, 50);
             order.AddItem("SSD", 1, 150);
-            order.AddIte
+            order.AddItem("USB cable", 2, 5);
+
+   
