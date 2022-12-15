@@ -68,4 +68,4 @@ namespace LiskovSubstitutionBefore {
 
             Console.WriteLine(order.TotalPrice());
             IPaymentProcessor processor = new PaypalPaymentProcessor();
-            processor.Pa
+            processor.Pay(order, "okwilkin
