@@ -30,3 +30,22 @@ namespace OpenClosedAfter {
 
             return total;
         }
+    }
+
+    public interface IPaymentProcessor {
+        public void Pay(Order order, string securityCode);
+    }
+
+    public class DebitPaymentProcessor : IPaymentProcessor {
+        public void Pay(Order order, string securityCode) {
+            Console.WriteLine("Processing debit payment type");
+            Console.WriteLine($"Verifying security code: {securityCode}");
+            order.Status = "paid";
+        }
+    }
+
+    public class CreditPaymentProcessor : IPaymentProcessor {
+        public void Pay(Order order, string securityCode) {
+            Console.WriteLine("Processing credit payment type");
+            Console.WriteLine($"Verifying security code: {securityCode}");
+            order.Status = "paid";
