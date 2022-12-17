@@ -49,3 +49,19 @@ namespace OpenClosedAfter {
             Console.WriteLine("Processing credit payment type");
             Console.WriteLine($"Verifying security code: {securityCode}");
             order.Status = "paid";
+        }
+    }
+
+    public class Program {
+        public static void Run() {
+            Order order = new Order();
+            order.AddItem("Keyboard", 1, 50);
+            order.AddItem("SSD", 1, 150);
+            order.AddItem("USB cable", 2, 5);
+
+            Console.WriteLine(order.TotalPrice());
+            IPaymentProcessor processor = new DebitPaymentProcessor();
+            processor.Pay(order, "037286");
+        }
+    }
+}
