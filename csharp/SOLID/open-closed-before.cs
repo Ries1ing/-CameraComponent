@@ -55,3 +55,6 @@ namespace OpenClosedBefore {
 
             Console.WriteLine(order.TotalPrice());
             PaymentProcessor.PayDebit(order, "0372846");
+        }
+    }
+}
