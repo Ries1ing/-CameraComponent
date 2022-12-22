@@ -2,4 +2,5 @@
 
 namespace SingleResponsibilityAfter {
     public class Order {
-        public List<string> Ite
+        public List<string> Items { get; set; }
+ 
