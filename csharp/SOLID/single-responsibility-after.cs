@@ -5,4 +5,6 @@ namespace SingleResponsibilityAfter {
         public List<string> Items { get; set; }
         public List<int> Quantities { get; set; }
         public List<double> Prices { get; set; }
-        public string Sta
+        public string Status { get; set; }
+
+   
