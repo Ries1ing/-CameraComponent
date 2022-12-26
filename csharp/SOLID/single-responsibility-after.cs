@@ -7,4 +7,5 @@ namespace SingleResponsibilityAfter {
         public List<double> Prices { get; set; }
         public string Status { get; set; }
 
-        public Order()
+        public Order() {
+            t
