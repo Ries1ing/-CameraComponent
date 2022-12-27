@@ -8,4 +8,5 @@ namespace SingleResponsibilityAfter {
         public string Status { get; set; }
 
         public Order() {
-            this.Items = new List
+            this.Items = new List<string>();
+            this.Qua
