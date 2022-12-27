@@ -9,4 +9,4 @@ namespace SingleResponsibilityAfter {
 
         public Order() {
             this.Items = new List<string>();
-            this.Qua
+            this.Quantities = new List<int>
