@@ -10,4 +10,5 @@ namespace SingleResponsibilityAfter {
         public Order() {
             this.Items = new List<string>();
             this.Quantities = new List<int>();
-            this.Prices = new List<doubl
+            this.Prices = new List<double>();
+            th
