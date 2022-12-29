@@ -14,4 +14,4 @@ namespace SingleResponsibilityAfter {
             this.Status = "open";
         }
 
-        public void AddI
+        public void AddItem(string name, int quan
