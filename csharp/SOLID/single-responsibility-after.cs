@@ -14,4 +14,4 @@ namespace SingleResponsibilityAfter {
             this.Status = "open";
         }
 
-        publi
+        public void AddI
