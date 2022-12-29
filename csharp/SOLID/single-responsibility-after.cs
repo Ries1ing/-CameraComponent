@@ -11,4 +11,5 @@ namespace SingleResponsibilityAfter {
             this.Items = new List<string>();
             this.Quantities = new List<int>();
             this.Prices = new List<double>();
-            th
+            this.Status = "open";
+   
