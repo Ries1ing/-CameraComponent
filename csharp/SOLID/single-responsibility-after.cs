@@ -15,4 +15,5 @@ namespace SingleResponsibilityAfter {
         }
 
         public void AddItem(string name, int quantity, double price) {
-            this.Items.
+            this.Items.Add(name);
+        
