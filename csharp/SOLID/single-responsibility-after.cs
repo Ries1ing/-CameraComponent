@@ -20,4 +20,4 @@ namespace SingleResponsibilityAfter {
             this.Prices.Add(price);
         }
 
-    
+        public double TotalPrice(
