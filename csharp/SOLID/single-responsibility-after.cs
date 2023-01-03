@@ -21,4 +21,6 @@ namespace SingleResponsibilityAfter {
         }
 
         public double TotalPrice() {
-            dou
+            double total = 0;
+
+            f
