@@ -23,4 +23,4 @@ namespace SingleResponsibilityAfter {
         public double TotalPrice() {
             double total = 0;
 
-            f
+            for (int i = 0; i < this
