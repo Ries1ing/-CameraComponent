@@ -31,4 +31,4 @@ namespace SingleResponsibilityAfter {
         }
     }
 
-    public cla
+    public class PaymentProcessor {
