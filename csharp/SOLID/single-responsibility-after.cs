@@ -32,4 +32,4 @@ namespace SingleResponsibilityAfter {
     }
 
     public class PaymentProcessor {
-        public static vo
+        public static void PayDebit(Order o
