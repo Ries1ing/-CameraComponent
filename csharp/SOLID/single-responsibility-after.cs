@@ -34,4 +34,4 @@ namespace SingleResponsibilityAfter {
     public class PaymentProcessor {
         public static void PayDebit(Order order, string securityCode) {
             Console.WriteLine("Processing debit payment type");
-            Consol
+            Console.WriteLine($"Verifying secu
