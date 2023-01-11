@@ -38,4 +38,4 @@ namespace SingleResponsibilityAfter {
             order.Status = "paid";
         }
 
-        publ
+        public static void Pay
