@@ -39,4 +39,4 @@ namespace SingleResponsibilityAfter {
         }
 
         public static void PayCredit(Order order, string securityCode) {
-            Conso
+            Console.WriteLine("Proc
