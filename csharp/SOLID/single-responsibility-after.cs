@@ -39,4 +39,4 @@ namespace SingleResponsibilityAfter {
         }
 
         public static void PayCredit(Order order, string securityCode) {
-            Console.WriteLine("Proc
+            Console.WriteLine("Processing credit payment type")
