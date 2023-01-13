@@ -41,3 +41,4 @@ namespace SingleResponsibilityAfter {
         public static void PayCredit(Order order, string securityCode) {
             Console.WriteLine("Processing credit payment type");
             Console.WriteLine($"Verifying security code: {securityCode}");
+            order.Status =
