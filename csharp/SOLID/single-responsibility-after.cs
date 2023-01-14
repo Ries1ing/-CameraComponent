@@ -45,3 +45,4 @@ namespace SingleResponsibilityAfter {
         }
     }
 
+    public class Program 
