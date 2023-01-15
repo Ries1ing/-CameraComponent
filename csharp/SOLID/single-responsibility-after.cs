@@ -45,4 +45,5 @@ namespace SingleResponsibilityAfter {
         }
     }
 
-    public class Program 
+    public class Program {
+        public stat
