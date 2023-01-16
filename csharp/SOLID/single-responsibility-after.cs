@@ -46,4 +46,4 @@ namespace SingleResponsibilityAfter {
     }
 
     public class Program {
-        public stat
+        public static void Run() {
