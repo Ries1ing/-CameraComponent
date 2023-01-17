@@ -47,4 +47,5 @@ namespace SingleResponsibilityAfter {
 
     public class Program {
         public static void Run() {
-            Order order = new Order(
+            Order order = new Order();
+            
