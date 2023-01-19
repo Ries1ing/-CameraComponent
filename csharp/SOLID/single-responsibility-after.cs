@@ -49,4 +49,5 @@ namespace SingleResponsibilityAfter {
         public static void Run() {
             Order order = new Order();
             order.AddItem("Keyboard", 1, 50);
-            order.AddItem("SSD", 1, 150)
+            order.AddItem("SSD", 1, 150);
+            order.AddItem
