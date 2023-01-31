@@ -52,4 +52,5 @@ namespace SingleResponsibilityAfter {
             order.AddItem("SSD", 1, 150);
             order.AddItem("USB cable", 2, 5);
 
-            Console.WriteLine(order.T
+            Console.WriteLine(order.TotalPrice());
+          
