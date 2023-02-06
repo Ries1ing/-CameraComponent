@@ -3,4 +3,4 @@
 // This is meant to be a bad example that breaks the single-responsibility principle.
 
 namespace SingleResponsibilityBefore {
-    p
+    public class Or
