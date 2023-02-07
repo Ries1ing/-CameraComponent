@@ -4,4 +4,4 @@
 
 namespace SingleResponsibilityBefore {
     public class Order {
-        public List<s
+        public List<string> Items { get; s
