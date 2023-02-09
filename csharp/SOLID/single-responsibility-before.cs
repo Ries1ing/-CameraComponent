@@ -6,4 +6,5 @@ namespace SingleResponsibilityBefore {
     public class Order {
         public List<string> Items { get; set; }
         public List<int> Quantities { get; set; }
-        public List<double> Pric
+        public List<double> Prices { get; set; }
+  
