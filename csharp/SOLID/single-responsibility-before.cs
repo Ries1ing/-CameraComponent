@@ -9,4 +9,5 @@ namespace SingleResponsibilityBefore {
         public List<double> Prices { get; set; }
         public string Status { get; set; }
 
-        public Ord
+        public Order() {
+            this.Items 
