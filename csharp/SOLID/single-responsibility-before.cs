@@ -10,4 +10,5 @@ namespace SingleResponsibilityBefore {
         public string Status { get; set; }
 
         public Order() {
-            this.Items = new List<string
+            this.Items = new List<string>();
+            this.Quantit
