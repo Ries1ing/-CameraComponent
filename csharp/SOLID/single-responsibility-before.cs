@@ -16,4 +16,4 @@ namespace SingleResponsibilityBefore {
             this.Status = "open";
         }
 
-  
+        public void AddIt
