@@ -16,4 +16,5 @@ namespace SingleResponsibilityBefore {
             this.Status = "open";
         }
 
-        public void AddItem(string name, int quantity, double pri
+        public void AddItem(string name, int quantity, double price) {
+            th
