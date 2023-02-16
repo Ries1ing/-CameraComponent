@@ -17,4 +17,4 @@ namespace SingleResponsibilityBefore {
         }
 
         public void AddItem(string name, int quantity, double price) {
-            th
+            this.Items.Add(name
