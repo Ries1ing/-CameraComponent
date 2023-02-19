@@ -22,4 +22,4 @@ namespace SingleResponsibilityBefore {
             this.Prices.Add(price);
         }
 
-  
+        public double 
