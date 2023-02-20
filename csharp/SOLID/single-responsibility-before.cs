@@ -23,4 +23,6 @@ namespace SingleResponsibilityBefore {
         }
 
         public double TotalPrice() {
-           
+            double total = 0;
+
+   
