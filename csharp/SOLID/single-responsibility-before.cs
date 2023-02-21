@@ -25,4 +25,5 @@ namespace SingleResponsibilityBefore {
         public double TotalPrice() {
             double total = 0;
 
-            for (int i = 0; i < this.Prices.Cou
+            for (int i = 0; i < this.Prices.Count; i++) {
+      
