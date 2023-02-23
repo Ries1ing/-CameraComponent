@@ -26,4 +26,5 @@ namespace SingleResponsibilityBefore {
             double total = 0;
 
             for (int i = 0; i < this.Prices.Count; i++) {
-                total += this.Quantities[i] *
+                total += this.Quantities[i] * this.Prices[i];
+ 
