@@ -29,4 +29,7 @@ namespace SingleResponsibilityBefore {
                 total += this.Quantities[i] * this.Prices[i];
             }
 
-            ret
+            return total;
+        }
+
+    
