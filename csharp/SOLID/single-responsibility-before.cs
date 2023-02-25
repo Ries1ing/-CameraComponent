@@ -32,4 +32,4 @@ namespace SingleResponsibilityBefore {
             return total;
         }
 
-        public void Pay(string paymen
+        public void Pay(string paymentType, string sec
