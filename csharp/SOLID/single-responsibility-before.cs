@@ -32,4 +32,4 @@ namespace SingleResponsibilityBefore {
             return total;
         }
 
-    
+        public void P
