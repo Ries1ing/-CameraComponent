@@ -33,4 +33,4 @@ namespace SingleResponsibilityBefore {
         }
 
         public void Pay(string paymentType, string securityCode) {
-        
+            if (paymentType =
