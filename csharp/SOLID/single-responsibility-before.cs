@@ -34,4 +34,5 @@ namespace SingleResponsibilityBefore {
 
         public void Pay(string paymentType, string securityCode) {
             if (paymentType == "debit") {
-                Console.WriteLine("Processing
+                Console.WriteLine("Processing debit payment type");
+       
