@@ -38,4 +38,5 @@ namespace SingleResponsibilityBefore {
                 Console.WriteLine($"Verifying security code: {securityCode}");
                 this.Status = "paid";
             }
-            else if (paymentType == "credit")
+            else if (paymentType == "credit") {
+                Co
