@@ -40,4 +40,4 @@ namespace SingleResponsibilityBefore {
             }
             else if (paymentType == "credit") {
                 Console.WriteLine("Processing credit payment type");
-  
+                Console.
