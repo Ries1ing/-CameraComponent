@@ -39,4 +39,5 @@ namespace SingleResponsibilityBefore {
                 this.Status = "paid";
             }
             else if (paymentType == "credit") {
-                Console.WriteLine("Processing credi
+                Console.WriteLine("Processing credit payment type");
+  
