@@ -41,4 +41,4 @@ namespace SingleResponsibilityBefore {
             else if (paymentType == "credit") {
                 Console.WriteLine("Processing credit payment type");
                 Console.WriteLine($"Verifying security code: {securityCode}");
-          
+                this.Status = "p
