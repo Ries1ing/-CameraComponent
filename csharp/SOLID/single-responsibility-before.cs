@@ -44,4 +44,4 @@ namespace SingleResponsibilityBefore {
                 this.Status = "paid";
             }
             else {
-                throw new Exception(
+                throw new Exception($"Unknown payment type: {payme
