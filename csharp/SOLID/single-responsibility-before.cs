@@ -46,4 +46,7 @@ namespace SingleResponsibilityBefore {
             else {
                 throw new Exception($"Unknown payment type: {paymentType}");
             }
- 
+        }
+    }
+
+    p
