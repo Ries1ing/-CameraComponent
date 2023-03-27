@@ -49,4 +49,4 @@ namespace SingleResponsibilityBefore {
         }
     }
 
-    p
+    public class Prog
