@@ -50,4 +50,4 @@ namespace SingleResponsibilityBefore {
     }
 
     public class Program {
-        pub
+        public static voi
