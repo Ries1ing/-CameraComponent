@@ -49,4 +49,5 @@ namespace SingleResponsibilityBefore {
         }
     }
 
-    public class Prog
+    public class Program {
+        pub
