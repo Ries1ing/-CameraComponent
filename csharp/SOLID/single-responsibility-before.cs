@@ -51,4 +51,5 @@ namespace SingleResponsibilityBefore {
 
     public class Program {
         public static void Run() {
-            Order order = new O
+            Order order = new Order();
+          
