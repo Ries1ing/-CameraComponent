@@ -52,4 +52,5 @@ namespace SingleResponsibilityBefore {
     public class Program {
         public static void Run() {
             Order order = new Order();
-            order.AddItem("Ke
+            order.AddItem("Keyboard", 1, 50);
+         
