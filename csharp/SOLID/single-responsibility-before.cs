@@ -57,4 +57,4 @@ namespace SingleResponsibilityBefore {
             order.AddItem("USB cable", 2, 5);
 
             Console.WriteLine(order.TotalPrice());
- 
+            order.Pay(
